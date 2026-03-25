@@ -1,6 +1,21 @@
 <h1 align="center">Hi 👋, I'm Gautam Goyal</h1>
 <h3 align="center">BTech CSE (AI) | ML Enthusiast | Building Real-World Projects</h3>
 
+---
+
+## 📈 GitHub Stats (First Impression Matters)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gautamgoyal1&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautamgoyal1&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Gautamgoyal1&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer+in+progress;Data+Science+Enthusiast;Always+learning+new+things" />
 </p>
@@ -11,7 +26,7 @@
 - 🎓 BTech CSE (AI) @ Chitkara University  
 - 🤖 Focused on **Machine Learning (Industry Level)**  
 - 📊 Built projects like **Diabetes Readmission Prediction**  
-- ☁️ Certified in **AZ-900** , **DP-900** , **AI-900**  
+- ☁️ Certified in **AZ-900**, **DP-900**, **AI-900**  
 - 🧠 Interested in **ML Systems, Data, Optimization**  
 - 💪 Gym + Discipline = Consistency mindset  
 
@@ -30,23 +45,6 @@
 
 ### ☁️ Cloud
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gautamgoyal1&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautamgoyal1&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Gautamgoyal1&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
