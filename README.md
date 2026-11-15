@@ -165,8 +165,8 @@
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gautamgoyal1&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautamgoyal1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Top languages" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub stats" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Most committed languages" />
 </p>
 
 <!-- Optional: enable only after confirming these render in your profile repo.
